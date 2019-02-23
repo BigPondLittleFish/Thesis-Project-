@@ -1,2 +1,2 @@
 # Thesis-Project-
-Recession Prediction Probit/VAR
+Recession Prediction using Probit and VAR models.
